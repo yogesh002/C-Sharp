@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FucAndActionTDelegate", "FucAndActionTDelegate\FucAndActionTDelegate.csproj", "{52B87361-9939-4334-A546-61827FBFA68B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortProject", "BubbleSortProject\BubbleSortProject.csproj", "{9FC43563-0C08-4491-A60D-533A3E178B98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{F6DCF92D-2E15-47C3-961B-116D833FB859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52B87361-9939-4334-A546-61827FBFA68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B87361-9939-4334-A546-61827FBFA68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B87361-9939-4334-A546-61827FBFA68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B87361-9939-4334-A546-61827FBFA68B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC43563-0C08-4491-A60D-533A3E178B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC43563-0C08-4491-A60D-533A3E178B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC43563-0C08-4491-A60D-533A3E178B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC43563-0C08-4491-A60D-533A3E178B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6DCF92D-2E15-47C3-961B-116D833FB859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6DCF92D-2E15-47C3-961B-116D833FB859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6DCF92D-2E15-47C3-961B-116D833FB859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6DCF92D-2E15-47C3-961B-116D833FB859}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
