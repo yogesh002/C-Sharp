@@ -41,11 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CustomEventArgs.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Publisher.cs" />
-    <Compile Include="Subscriber.cs" />
+    <Compile Include="src\CustomEventArgs.cs" />
+    <Compile Include="src\Program.cs" />
+    <Compile Include="src\Publisher.cs" />
+    <Compile Include="src\Subscriber.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
