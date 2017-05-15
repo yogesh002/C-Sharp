@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD", "CRUD\CRUD.csproj", "{DD9881D5-224F-4EB6-B52F-5B86225EA5C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayDBDataInGridViewExample", "DisplayDBDataInGridViewExample\DisplayDBDataInGridViewExample.csproj", "{44858E61-E960-4FB1-AC00-C32EA331E70B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNRLibrary", "RNRLibrary\RNRLibrary.csproj", "{2144D1C7-859E-42B1-B575-2AD197513F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNRForm", "RNRForm\RNRForm.csproj", "{9581F2B9-EE3E-4F92-BD13-EB6D62F0FF68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HollywoodLibrary", "HollywoodLibrary\HollywoodLibrary.csproj", "{8DC77A3C-53A0-41B7-881C-4B7D191A4BCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchMovieData", "SearchMovieData\SearchMovieData.csproj", "{B995506A-54A5-40F6-8C65-880BF665FD54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD9881D5-224F-4EB6-B52F-5B86225EA5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9881D5-224F-4EB6-B52F-5B86225EA5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9881D5-224F-4EB6-B52F-5B86225EA5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9881D5-224F-4EB6-B52F-5B86225EA5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44858E61-E960-4FB1-AC00-C32EA331E70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44858E61-E960-4FB1-AC00-C32EA331E70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44858E61-E960-4FB1-AC00-C32EA331E70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44858E61-E960-4FB1-AC00-C32EA331E70B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2144D1C7-859E-42B1-B575-2AD197513F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2144D1C7-859E-42B1-B575-2AD197513F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2144D1C7-859E-42B1-B575-2AD197513F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2144D1C7-859E-42B1-B575-2AD197513F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9581F2B9-EE3E-4F92-BD13-EB6D62F0FF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9581F2B9-EE3E-4F92-BD13-EB6D62F0FF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9581F2B9-EE3E-4F92-BD13-EB6D62F0FF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9581F2B9-EE3E-4F92-BD13-EB6D62F0FF68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC77A3C-53A0-41B7-881C-4B7D191A4BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC77A3C-53A0-41B7-881C-4B7D191A4BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC77A3C-53A0-41B7-881C-4B7D191A4BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC77A3C-53A0-41B7-881C-4B7D191A4BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B995506A-54A5-40F6-8C65-880BF665FD54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B995506A-54A5-40F6-8C65-880BF665FD54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B995506A-54A5-40F6-8C65-880BF665FD54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B995506A-54A5-40F6-8C65-880BF665FD54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
